@@ -1,1 +1,2 @@
-# webpack_scrset_102
+# webpack_srcset
+webpack config using  srcset-loader
